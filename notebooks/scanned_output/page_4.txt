@@ -1,0 +1,36 @@
+|                                IN SEARCH OF JyotisH  *                          ' E 2                         THE SPECIAL LAGNAS                                  4
+ |       Horalagna = Suryasphuta at Siryodaya + Istaghati / Ahoratramana         1. a compression of the Raégis are dependent on Latitudes, causing the       q
+]      aes                                                                              yon  time of the Ragis to vary in different Latitudes. This makes the        q
+|             Even though this is the most used formula, this is not precise         Tesnde  of the concerned place important for determining the 4
+|        because, by the time the Viéeéa Lagna completes its cycles, at the               Udayalagna. This variation of the rising times (Udayamana) of the Raéis         4
+|      beginning of the next day, instead of coinciding, it shall be somewhat           ‘s ignored in Bhaéva Lagna computation.                                       a
+|         behind Surya. That is because we have not considered the motion of Siirya                    _ ‘The Bhava Lagna assumes that the Lagna coincides with Siirya at          |
+il      during this duration. To account for Siirya’s motion, we must consider              Gryodaya and after that moves in a perfect cycle, with a uniform speed,       a
+||        Siryasphuta at the moment. Therefore, the precise formula is Viéeéa               so  the  ecliptic and coincides with  Sirya on  the next Siiryodaya.         -
+|      Lagna = Siiryasphuta at the moment + Istaghati / Ahoratramana *      each the Bhava Lagna can be defined as one with the following      2
+|         12 * cycles per day. The difference may be minuscule, but we should not      A        specifications: (1) It conjoined Siirya at Siiryodaya, and (2) It moves         q
+i          disregard that.                                                                                                   -         uniformly along the ecliptic in a circular path. Therefore, Bhava Lagna =          _
+| /      .                                                                                                                :         Siryasphuta + Istaghati / Ahoratramana * 12.                                          2
+Bhava means the “state of mind” and is used to represent our state      |                     We must be clear about the parameters used in the computations          j ,
+of mind and experiences that we are slated to undergo about the various      .        of the Visesa Lagnas to remove any possible ambiguity. These are:
+f         matters represented by the Bhavas in a Kundali. The term Bhava Lagna     i                                                 Wahie                                      |            4
+|             could mean a mental projection or image that we create at birth regarding          tt                      Se                   .                    —            _
+|       the various matters in our life. The mental projection may or may not work      # Parameter __   voi mint i we dean       c
+             out in real life, but it is possible that we still see aneventina manner that _                     “Siryasphuta Bis is Siryasphuta when Lagna is precisely conjunct with
+|            is aligned with the mental projection.                                                                                       1 atSaryodaya °""¥2- This coincides with the rising of the centre of the solar                 _
+|              The Bhava Lagna is created by assuming that the Rasis are of            :   a Th aie ne abe Pani or as veo) aapead Fear a         a
+|        equal length, and the Lagna coincides exactly with Sirya at Stiryodaya.      |             ae  moment of Siiryodaya, expressed in terms of Ghati, This is also          _
+| —_Athough there are differences of opinions regarding what should be ==» [7744323424375 called the létakla, or the desired time. Istaghati= Iétakla in            a
+| mathematically and astronomically.               Re eee ee
+|                                                                   £604.82                                                               i RETEST is the period between two successive Siryodaya, expressed           :
+|                                   SURYASPHUTA AND TIME FROM SURYODAYA                               _                    ene = in Ghati. This can also be said as the period between two                .
+1                        From “Saryodaya” to the “Time of Birth”, every 5 Ghatis                     a          average.                      ;                     ‘                      =          L
+il                         as at Saryodaya. This is called Bhava Lagna.                      |                          COMPUTATION OF THE BHAVA LAGNA
+|             The Bhava Lagna can be considered as the mean motion of the    t      could berteepowiths neti eek eeeee et we any there      i
+|       dang in tise Lodi, Th Ein coingiies with Siiryasphuta a Stiryoday a.      :        method, the day duration is considered as 60 Ghati, while in the precise        :
+|         Lagna represents the rising moment; hence whichever body it conjoins, it      :         method, the precise duration of the day (Ahoratramana) is ascertained.             7
+           muses on the eqatern Horizon.                                                                                  .                       If we have access to a mathematical tool or software, we should use
+                 Similarly, the point in the Zodiac that the Lagna conjoins rises on       the precise method for determining the Bhava Lagna: olen Ste acest       y
+       ihe eastern nape y een called the danmalagna. Due to the earth’s tilt    :       method can be used for a quick and rough calculation. The difference      _
+      about the plane of its revolution around Siirya (ecliptic), the Bhacakra     |      between the two could be minor, but it could yield different results in the      o
+           appears to be bloated in one place and compressed in another. The bloating                                                                                           |                                                          : A
